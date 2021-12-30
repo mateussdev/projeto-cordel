@@ -95,3 +95,7 @@ footer{
   text-align: center;
   padding: 5px;
 }
+
+footer > P{
+  padding: 5px;
+}
